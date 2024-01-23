@@ -2,9 +2,6 @@
 
 Questa cartella contiene tutti i documenti di gestione manageriale di Esistere. Qui puoi trovare informazioni cruciali relative all'avvio, passando per la pianificazione fino alla chiusura delle attività del progetto.
 
-## Contenuti
-
-# Esistere
 
 ## Contenuti Salienti
 
