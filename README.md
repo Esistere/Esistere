@@ -19,3 +19,4 @@ In Esistere, crediamo nel potere della tecnologia per fare la differenza. La nos
 
 Dai un'occhiata ai nostri progetti principali:
 - [Esistere](https://esistere.github.io/esistere-frontend/) - La nostra piattaforma principale per l'assistenza ai pazienti con Alzheimer, accessibile tramite le repository esistere-backend ed esistere-frontend
+- [Esistere-IA](https://github.com/Esistere/esistere-ia/) - Il nostro modulo di intelligenza artificiale per avere una previsione sullo stato della malattia tramite un'immagine TAC, accessibile tramite la repository esistere-ia
